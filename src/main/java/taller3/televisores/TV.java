@@ -58,11 +58,11 @@ public class TV {
 		return control;
 	}
 	
-	public static void setnumTV (int numTV) {
+	public static void setNumTV (int numTV) {
 		TV.numTV = numTV;
 	}
 	
-	public int getnumTV() {
+	public int getNumTV() {
 		return numTV;
 	}
 	
